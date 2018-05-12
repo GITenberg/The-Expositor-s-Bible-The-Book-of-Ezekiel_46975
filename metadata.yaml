@@ -1,10 +1,16 @@
 _repo: The-Expositor-s-Bible-The-Book-of-Ezekiel_46975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46975-h/images/cover.jpg
 creator:
   author:
     agent_name: Skinner, John
     gutenberg_agent_id: '44067'
     url: http://www.gutenberg.org/2009/agents/44067
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46975#The-Expositor-s-Bible-The-Book-of-Ezekiel
 gutenberg_issued: '2014-09-27'
 gutenberg_type: Text
 identifiers:
